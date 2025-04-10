@@ -1,0 +1,8 @@
+# /requirements.txt
+numpy
+pandas
+matplotlib
+pylint
+black
+
+black[jupyter]

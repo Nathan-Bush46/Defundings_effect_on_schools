@@ -172,3 +172,23 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon file on custom folder
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear on external volumes
+.Spotlight-V100
+.Trashes
+
+# macOS metadata files
+*.swp
+.fseventsd
