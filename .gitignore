@@ -192,3 +192,5 @@ Icon
 # macOS metadata files
 *.swp
 .fseventsd
+
+data/academic_scores/*

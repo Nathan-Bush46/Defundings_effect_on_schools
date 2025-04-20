@@ -5,4 +5,10 @@ matplotlib
 pylint
 black
 
+
+seaborn
+
+statsmodels
 black[jupyter]
+
+scikit-learn
